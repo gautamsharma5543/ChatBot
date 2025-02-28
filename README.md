@@ -26,7 +26,7 @@ The chatbot fetches relevant information from the official documentation of thes
 ## Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/gautamsharma5543/ChatBot
+   git clone https://github.com/gautamsharma5543/ChatBot/tree/main/chatbot
    cd cdp-chatbot
    ```
 2. **Install Dependencies:**
